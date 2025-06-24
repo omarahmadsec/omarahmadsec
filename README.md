@@ -47,7 +47,6 @@
 
 - [GitHub](https://github.com/omarahmadsec)  
 - [LinkedIn](https://www.linkedin.com/in/omar-ahmad-873586270/)
-- [TryHackMe](https://www.coursera.org/account/accomplishments/professional-cert/V2CZ7R5AGOF7)
 
 ---
 
