@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Ahmad
 
-<!--
-**omarahmadsec/omarahmadsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Cybersecurity Analyst | Blue Team Enthusiast | SOC Simulation Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm Working On
+
+- Building a full SOC simulation with alert pipelines and AI-generated metadata  
+- Automating log analysis and alert enrichment using Python  
+- Preparing for the CompTIA Security+ certification  
+- Studying advanced Blue Team workflows and detection engineering
+
+---
+
+## 🧠 Skills & Tools
+
+- Python, Bash, JSON, Regex  
+- SIEM basics (Splunk-style), HELK, Wireshark  
+- Git, GitHub, VS Code  
+- Threat analysis, detection logic, log parsing
+
+---
+
+## 📂 Featured Projects
+
+🔸 [`incident-simulations`](https://github.com/omarahmadsec/incident-simulations)  
+⚙️ Simulates real-world multi-stage attacks and alerts with AI-generated metadata.
+
+🔸 [`scripts-tools`](https://github.com/omarahmadsec/scripts-tools)  
+🧰 Python scripts for log parsing, IP reputation checks, and alert enrichment.
+
+🔸 [`resume-portfolio`](https://github.com/omarahmadsec/resume-portfolio)  
+📄 Includes my resume, personal statement, and sample cover letters.
+
+---
+
+## 🎓 In Progress
+
+- Google Cybersecurity Certificate ✅  
+- CompTIA Security+ ⏳  
+- UC transfer for a Cybersecurity/CS major in Fall 2027 🎯
+
+---
+
+## 📫 Connect with Me
+
+- [GitHub](https://github.com/omarahmadsec)  
+- [LinkedIn](https://www.linkedin.com/in/omar-ahmad-873586270/)
+- [TryHackMe](https://www.coursera.org/account/accomplishments/professional-cert/V2CZ7R5AGOF7)
+
+---
+
+> 🧩 “I don’t just learn cybersecurity—I simulate it.”
+
