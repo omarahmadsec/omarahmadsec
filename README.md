@@ -1,54 +1,57 @@
 # 👋 Hi, I'm Omar Ahmad
 
-🔐 Aspiring Cybersecurity Analyst | Blue Team Enthusiast | SOC Simulation Developer
+🔒 Aspiring Application Security Engineer | Secure Coding + Ethical Hacking | Breaking apps to build them better
 
 ---
 
 ## 🛠️ What I'm Working On
 
-- Building a full SOC simulation with alert pipelines and AI-generated metadata  
-- Automating log analysis and alert enrichment using Python  
-- Preparing for the CompTIA Security+ certification  
-- Studying advanced Blue Team workflows and detection engineering
+- Practicing web and API security with OWASP Juice Shop & WebGoat  
+- Automating code reviews and security testing with tools like Semgrep and ZAP  
+- Studying the OWASP Top 10 and real-world CVEs  
+- Writing payloads, fuzzers, and secure-by-design components
 
 ---
 
 ## 🧠 Skills & Tools
 
-- Python, Bash, JSON, Regex  
-- SIEM basics (Splunk-style), HELK, Wireshark  
-- Git, GitHub, VS Code  
-- Threat analysis, detection logic, log parsing
+- Languages: JavaScript, Python, Bash  
+- Tools: Burp Suite, OWASP ZAP, Semgrep, Nikto  
+- Methods: Manual testing, SAST/DAST, code auditing, vuln chaining  
+- Concepts: XSS, SQLi, SSRF, CSRF, IDOR, JWT cracking
 
 ---
 
 ## 📂 Featured Projects
 
-🔸 [`incident-simulations`](https://github.com/omarahmadsec/incident-simulations)  
-⚙️ Simulates real-world multi-stage attacks and alerts with AI-generated metadata.
+🔸 [`owasp-lab`](https://github.com/omarahmadsec/owasp-lab)  
+🧪 A hands-on lab for OWASP Juice Shop, WebGoat, and DVWA with exploit notes and tools.
 
 🔸 [`scripts-tools`](https://github.com/omarahmadsec/scripts-tools)  
-🧰 Python scripts for log parsing, IP reputation checks, and alert enrichment.
+🔧 Python scripts for fuzzing, IP lookups, alert enrichment, and web scanning.
+
+🔸 [`incident-simulations`](https://github.com/omarahmadsec/incident-simulations)  
+🎯 A SOC simulation project showcasing alert generation, log search, and analyst workflow.
 
 🔸 [`resume-portfolio`](https://github.com/omarahmadsec/resume-portfolio)  
-📄 Includes my resume, personal statement, and sample cover letters.
+📄 Includes my resume, personal mission statement, and cover letters.
 
 ---
 
-## 🎓 In Progress
+## 🎯 Learning Goals
 
-- Google Cybersecurity Certificate ✅  
-- CompTIA Security+ ⏳  
-- UC transfer for a Cybersecurity/CS major in Fall 2027 🎯
+- Become proficient in bug bounty methodologies  
+- Get certified in web/app security (e.g. eWPT, PNPT, or OSWA)  
+- Develop secure-by-default web components and middleware  
+- Contribute to open-source AppSec tools and testing frameworks
 
 ---
 
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/omarahmadsec)  
-- [LinkedIn](https://www.linkedin.com/in/omar-ahmad-873586270/)
+- [LinkedIn](https://linkedin.com/in/omar-ahmad-873586270)  
 
 ---
 
-> 🧩 “I don’t just learn cybersecurity—I simulate it.”
-
+> 💡 “If I can build it, I can break it — and secure it better.”
